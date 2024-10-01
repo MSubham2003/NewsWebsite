@@ -17,7 +17,7 @@ A simple news website that fetches the latest news using the [NewsAPI](https://n
 
 ## Folder Structure
 
-```
+
 
             └───NewsWebsite\
                 ├───images\
@@ -25,24 +25,26 @@ A simple news website that fetches the latest news using the [NewsAPI](https://n
                 ├───README.md
                 ├───script.js
                 └───styles.css
-```
+
 
 ## Prerequisites
 
 - Basic knowledge of HTML, CSS, and JavaScript.
 - [NewsAPI](https://newsapi.org) API key for fetching news articles.
 
-## Installation
+
+   ```
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/NewsWebsite.git
+    git clone https://github.com/your-username/NewsWebsite.git
    ```
-
+   
 2. Navigate to the project directory:
    ```bash
    cd NewsWebsite
    ```
+
 
 3. Open the `index.html` file in your browser:
    ```bash
