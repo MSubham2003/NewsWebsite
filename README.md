@@ -1,4 +1,3 @@
-Here’s the README.md content for your News Website project:
 
 ```markdown
 # News Website
@@ -19,11 +18,7 @@ A simple news website that fetches the latest news using the [NewsAPI](https://n
 ## Folder Structure
 
 ```
-C:\
-│
-└───Users\
-    └───mohan\
-        └───Desktop\
+
             └───NewsWebsite\
                 ├───images\
                 ├───index.html
